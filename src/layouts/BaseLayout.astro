@@ -1,0 +1,17 @@
+---
+import AnkouConfig from "../../ankou.config";
+import BaseHead from "../components/BaseHead.astro";
+---
+
+<html lang={AnkouConfig.locale}>
+  <BaseHead />
+  <body class="overflow-y-hidden">
+    <slot />
+  </body>
+</html>
+
+<style>
+  body {
+    @apply bg-[var(--background-color)];
+  }
+</style>
