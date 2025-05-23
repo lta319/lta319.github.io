@@ -1,7 +1,7 @@
 import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
-const YukinaConfig: Configuration = {
+const AnkouConfig: Configuration = {
   title: "Ankou",
   subTitle: "Ankou Template Demo Site",
   brandTitle: "Ankou",
@@ -27,7 +27,7 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://gothub.com/lta319",
+      href: "https://github.com/lta319",
     },
   ],
 
@@ -37,7 +37,7 @@ const YukinaConfig: Configuration = {
   socialLinks: [
     {
       icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
+      link: "https://github.com/lta319",
     },
     {
       icon: "mingcute:bilibili-line",
@@ -75,4 +75,4 @@ const YukinaConfig: Configuration = {
   bannerStyle: "LOOP", // 'loop' | 'static' | 'hidden'
 };
 
-export default YukinaConfig;
+export default AnkouConfig;
