@@ -45,7 +45,7 @@ const AnkouConfig: Configuration = {
     },
     {
       icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",//"https://music.163.com/#/user/home?id=125291648"
+      link: "https://c6.y.qq.com/base/fcgi-bin/u?__=H6uM3wyiKs2e",//"https://music.163.com/#/user/home?id=125291648"
     },
   ],
   maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
