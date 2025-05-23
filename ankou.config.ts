@@ -3,10 +3,10 @@ import type { Configuration } from "./src/types/config";
 
 const AnkouConfig: Configuration = {
   title: "Ankou",
-  subTitle: "Ankou Template Demo Site",
+  subTitle: "Welcome to My Site",
   brandTitle: "Ankou",
 
-  description: "Demo Site",
+  description: "Ankou Site",
 
   site: "https://gothub.com/lta319",
 
@@ -31,9 +31,9 @@ const AnkouConfig: Configuration = {
     },
   ],
 
-  username: "WhitePaper 白芷",
+  username: "Ankou ",
   sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  avatarUrl: "/kiana.jpg",//https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp
   socialLinks: [
     {
       icon: "line-md:github-loop",
@@ -41,11 +41,11 @@ const AnkouConfig: Configuration = {
     },
     {
       icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
+      link: "https://space.bilibili.com/413332637",
     },
     {
       icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      link: "https://music.163.com/#/user/home?id=125291648",//"https://music.163.com/#/user/home?id=125291648"
     },
   ],
   maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
@@ -63,12 +63,11 @@ const AnkouConfig: Configuration = {
     "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
     "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
   ],
-
   slugMode: "HASH", // 'RAW' | 'HASH'
 
   license: {
     name: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",//"https://creativecommons.org/licenses/by-nc-sa/4.0/"
   },
 
   // WIP functions

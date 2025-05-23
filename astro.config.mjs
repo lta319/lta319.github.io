@@ -20,6 +20,9 @@ import pagefind from "astro-pagefind";
 // https://astro.build/config
 export default defineConfig({
   site: AnkouConfig.site,
+  server: {
+    port: 8080 // 自定义端口号
+  },
   integrations: [
     tailwind(),
     svelte(),
