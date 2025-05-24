@@ -3,7 +3,7 @@ title: 资料
 published: 2025-05-24
 description: 资料
 tags: [Markdown, Blogging]
-category: Java
+category: Java Source
 licenseName: "Unlicensed"
 author: Ankou
 sourceLink: ''
