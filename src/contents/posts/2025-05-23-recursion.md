@@ -1,7 +1,7 @@
 ---
 title: 递归
 published: 2025-05-23
-description: 递归
+description: 计算机科学中，递归是一种解决计算问题的方法，其中解决方案取决于同一类问题的更小子集
 tags: [Markdown, Blogging]
 category: Data Structure
 licenseName: "Unlicensed"

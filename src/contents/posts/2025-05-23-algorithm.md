@@ -3,7 +3,7 @@ title: 算法
 published: 2025-05-23
 description: 算法
 tags: [Markdown, Blogging]
-category: Algorithm
+category: Basic Algorithm
 licenseName: "Unlicensed"
 author: Ankou
 sourceLink: ''
