@@ -21,7 +21,7 @@ draft: false
 
 
 
-可以分类为[^5]
+可以分类为[^1]
 
 * 单向链表，每个元素只知道其下一个元素是谁
 
@@ -1785,7 +1785,7 @@ public boolean isPalindrome(ListNode h1) {
 
 #### E10. 环形链表-Leetcode 141
 
-本题以及下题，实际是 Floyd's Tortoise and Hare Algorithm （Floyd 龟兔赛跑算法）[^15]
+本题以及下题，实际是 Floyd's Tortoise and Hare Algorithm （Floyd 龟兔赛跑算法）[^2]
 
 > 除了 Floyd 判环算法外，还有其它的判环算法，详见 https://en.wikipedia.org/wiki/Cycle_detection
 
@@ -1979,3 +1979,7 @@ public ListNode getIntersectionNode(ListNode a, ListNode b) {
     }
 }
 ```
+# 参考文章
+
+[^1]: 图片引用自 wikipedia linkedlist 条目，https://en.wikipedia.org/wiki/Linked_list
+[^2]: 龟兔赛跑动画来自于 [Floyd's Hare and Tortoise Algorithm Demo - One Step! Code (onestepcode.com)](https://onestepcode.com/floyd-hare-tortoise-algorithm-demo/)

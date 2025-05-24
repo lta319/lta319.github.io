@@ -772,3 +772,9 @@ public static int[] searchRange(int[] nums, int target) {
     }
 }
 ```
+# 参考文章
+
+[^1]: ["Definition of ALGORITHM"](https://www.merriam-webster.com/dictionary/algorithm). *Merriam-Webster Online Dictionary*. [Archived](https://web.archive.org/web/20200214074446/https://www.merriam-webster.com/dictionary/algorithm) from the original on February 14, 2020. Retrieved November 14, 2019.
+[^2]: Introduction to Algorithm 中文译作《算法导论》
+[^3]: 主要参考文档 https://en.wikipedia.org/wiki/Binary_search_algorithm
+[^4]: 图片及概念均摘自 Introduction to Algorithm 4th，3.1节，3.2 节

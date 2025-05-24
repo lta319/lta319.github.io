@@ -280,7 +280,7 @@ private static void insertion(int[] a, int low, int high) {
 
 
 
-#### E06. 约瑟夫问题[^16]（单路递归）
+#### E06. 约瑟夫问题[^8]（单路递归）
 
 $n$ 个人排成圆圈，从头开始报数，每次数到第 $m$ 个人（$m$ 从 $1$ 开始）杀之，继续从下一个人重复以上过程，求最后活下来的人是谁？
 
@@ -469,12 +469,12 @@ public static int f(int n) {
   * 时间复杂度为 $\Theta(1.618^n)$
 
 
-> 1. 更多 Fibonacci 参考[^8][^9][^10]
+> 1. 更多 Fibonacci 参考[^2][^3][^4]
 > 2. 以上时间复杂度分析，未考虑大数相加的因素
 
 
 
-**变体1 - 兔子问题[^8]**
+**变体1 - 兔子问题[^2]**
 
 ![image-20221110155655827](/imgs/image-20221110155655827.png)
 
@@ -519,7 +519,7 @@ public static int f(int n) {
 
 
 
-#### E02. 汉诺塔[^13]（多路递归）
+#### E02. 汉诺塔[^6]（多路递归）
 
 Tower of Hanoi，是一个源于印度古老传说：大梵天创建世界时做了三根金刚石柱，在一根柱子从下往上按大小顺序摞着 64 片黄金圆盘，大梵天命令婆罗门把圆盘重新摆放在另一根柱子上，并且规定
 
@@ -621,7 +621,7 @@ public class E02HanoiTower {
 
 
 
-#### E03. 杨辉三角[^6]
+#### E03. 杨辉三角[^1]
 
 ![image-20221219172514410](/imgs/image-20221219172514410.png)
 
@@ -896,7 +896,7 @@ function a(x) {
 
 
 
-**一些语言**[^11]的编译器能够对尾调用做优化，例如
+**一些语言**[^5]的编译器能够对尾调用做优化，例如
 
 ```js
 function a() {
@@ -1098,7 +1098,7 @@ public static void main(String[] args) {
 
 
 
-### 6) 递归时间复杂度-Master theorem[^14]
+### 6) 递归时间复杂度-Master theorem[^7]
 
 若有递归式
 $$
@@ -1369,3 +1369,14 @@ $T(n) = T(n-(n-1)) + (n-1)c + 2+...+n = \frac{n^2}{2} + \frac{2cn+n}{2} -1$
 * 例1 输入 f(n) = f(n - 1) + c, f(1) = c
 * 例2 输入 f(n) = f(n - 1) + n, f(1) = c
 * 例3 输入 f(n) = f(n - 1) + n + c, f(1) = c
+
+# 参考文章
+
+[^1]: 也称为 Pascal's triangle https://en.wikipedia.org/wiki/Pascal%27s_triangle
+[^2]: Fibonacci 介绍：https://en.wikipedia.org/wiki/Fibonacci_number
+[^3]: [几种计算Fibonacci数列算法的时间复杂度比较 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/165877869)
+[^4]: 几种斐波那契数列算法比较 [Fast Fibonacci algorithms (nayuki.io)](https://www.nayuki.io/page/fast-fibonacci-algorithms)
+[^5]: 我知道的有 C++，Scala
+[^6]: 汉诺塔图片资料均来自 https://en.wikipedia.org/wiki/Tower_of_Hanoi
+[^7]: 与主定理类似的还有 Akra–Bazzi method，https://en.wikipedia.org/wiki/Akra%E2%80%93Bazzi_method
+[^8]: Josephus problem 主要参考 https://en.wikipedia.org/wiki/Josephus_problem

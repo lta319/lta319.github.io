@@ -10,35 +10,6 @@ sourceLink: ''
 draft: false
 ---
 
-# 参考文章
-
-[^1]: ["Definition of ALGORITHM"](https://www.merriam-webster.com/dictionary/algorithm). *Merriam-Webster Online Dictionary*. [Archived](https://web.archive.org/web/20200214074446/https://www.merriam-webster.com/dictionary/algorithm) from the original on February 14, 2020. Retrieved November 14, 2019.
-[^2]: Introduction to Algorithm 中文译作《算法导论》
-[^3]: 主要参考文档 https://en.wikipedia.org/wiki/Binary_search_algorithm
-[^4]: 图片及概念均摘自 Introduction to Algorithm 4th，3.1节，3.2 节
-[^5]: 图片引用自 wikipedia linkedlist 条目，https://en.wikipedia.org/wiki/Linked_list
-
-[^6]: 也称为 Pascal's triangle https://en.wikipedia.org/wiki/Pascal%27s_triangle
-
-[^7]: [递归求解斐波那契数列的时间复杂度——几种简洁证明 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/257214075)
-[^8]: Fibonacci 介绍：https://en.wikipedia.org/wiki/Fibonacci_number
-[^9]: [几种计算Fibonacci数列算法的时间复杂度比较 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/165877869)
-[^10]: 几种斐波那契数列算法比较 [Fast Fibonacci algorithms (nayuki.io)](https://www.nayuki.io/page/fast-fibonacci-algorithms)
-
-[^11]: 我知道的有 C++，Scala
-[^12]: jdk 版本有关，64 位 jdk，按 8 字节对齐
-[^13]: 汉诺塔图片资料均来自 https://en.wikipedia.org/wiki/Tower_of_Hanoi
-[^14]: 与主定理类似的还有 Akra–Bazzi method，https://en.wikipedia.org/wiki/Akra%E2%80%93Bazzi_method
-
-[^15]: 龟兔赛跑动画来自于 [Floyd's Hare and Tortoise Algorithm Demo - One Step! Code (onestepcode.com)](https://onestepcode.com/floyd-hare-tortoise-algorithm-demo/)
-
-[^16]: Josephus problem 主要参考 https://en.wikipedia.org/wiki/Josephus_problem
-
-[^17]: KMP 算法中 next 数组的说明 [KMP算法的Next数组详解 - 唐小喵 - 博客园 (cnblogs.com)](https://www.cnblogs.com/tangzhengyue/p/4315393.html)
-
-
-
-
 ## 力扣高评价题目列表
 
 引用自 [面试最常考的 100 道算法题分类整理！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/449686402)
