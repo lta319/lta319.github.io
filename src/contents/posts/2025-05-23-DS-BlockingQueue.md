@@ -1,7 +1,7 @@
 ---
 title: 阻塞队列
 published: 2025-05-23
-description: 阻塞队列
+description: 之前的队列在很多场景下都不能很好地工作
 tags: [Markdown, Blogging]
 category: Data Structure
 licenseName: "Unlicensed"
@@ -22,7 +22,7 @@ draft: false
 1. 用锁保证线程安全
 2. 用条件变量让**等待非空线程**与**等待不满线程**进入**等待**状态，而不是不断循环尝试，让 CPU 空转
 
-有同学对线程安全还没有足够的认识，下面举一个反例，两个线程都要执行入队操作（几乎在同一时刻）
+下面举一个反例，两个线程都要执行入队操作（几乎在同一时刻）
 
 ```java
 public class TestThreadUnsafe {

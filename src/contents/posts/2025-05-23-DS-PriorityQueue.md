@@ -1,7 +1,7 @@
 ---
 title: 优先级队列
 published: 2025-05-23
-description: 优先级队列
+description: 1. 入队保持顺序 2. 出队前找到优先级最高的出队，相当于一次选择排序
 tags: [Markdown, Blogging]
 category: Data Structure
 licenseName: "Unlicensed"

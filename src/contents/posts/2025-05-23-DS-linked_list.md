@@ -1,7 +1,7 @@
 ---
 title: 链表
 published: 2025-05-23
-description: 链表
+description: 在计算机科学中，链表是数据元素的线性集合，其每个元素都指向下一个元素，元素存储上并不连续
 tags: [Markdown, Blogging]
 category: Data Structure
 licenseName: "Unlicensed"
