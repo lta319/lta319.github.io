@@ -3,7 +3,7 @@ title: 单调队列和栈
 published: 2025-05-24
 description: 单调队列和栈
 tags: [Markdown, Blogging]
-category: Advanced Data Structure and Algorithm Design
+category: Algorithm Design
 licenseName: "Unlicensed"
 author: Ankou
 sourceLink: ''

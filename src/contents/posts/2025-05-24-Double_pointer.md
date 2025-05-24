@@ -3,7 +3,7 @@ title: 双指针
 published: 2025-05-24
 description: 双指针
 tags: [Markdown, Blogging]
-category: Advanced Data Structure and Algorithm Design
+category: Algorithm Design
 licenseName: "Unlicensed"
 author: Ankou
 sourceLink: ''

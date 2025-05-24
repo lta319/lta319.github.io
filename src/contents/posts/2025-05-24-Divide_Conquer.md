@@ -3,7 +3,7 @@ title: 分治
 published: 2025-05-24
 description: 分治思想:将大问题划分为两个到多个子问题,子问题可以继续拆分成更小的子问题，直到能够简单求解,如有必要，将子问题的解进行合并，得到原始问题的解
 tags: [Markdown, Blogging]
-category: Advanced Data Structure and Algorithm Design
+category: Algorithm Design
 licenseName: "Unlicensed"
 author: Ankou
 sourceLink: ''

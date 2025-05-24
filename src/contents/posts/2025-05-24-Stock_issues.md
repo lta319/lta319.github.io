@@ -3,7 +3,7 @@ title: 股票问题
 published: 2025-05-24
 description: 股票问题
 tags: [Markdown, Blogging]
-category: Advanced Data Structure and Algorithm Design
+category: Algorithm Design
 licenseName: "Unlicensed"
 author: Ankou
 sourceLink: ''
