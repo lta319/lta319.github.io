@@ -215,11 +215,11 @@ public static int binarySearch(int[] a, int target) {
 
 两个算法比较，可以看到 $n$ 在较小的时候，二者花费的次数差不多
 
-<img src=".\imgs\image-20221108095747933.png" alt="image-20221108095747933" style="zoom:45%;" />
+<img src="/imgs/image-20221108095747933.png" alt="image-20221108095747933" style="zoom:50%;" />
 
 但随着 $n$ 越来越大，比如说 $n=1000$ 时，用二分查找算法（红色）也就是 $54t$，而蓝色算法则需要 $3003t$
 
-<img src=".\imgs\image-20221108100014451.png" alt="image-20221108100014451" style="zoom:50%;" />
+<img src="/imgs/image-20221108100014451.png" alt="image-20221108100014451" style="zoom:50%;" />
 
 
 
@@ -247,7 +247,7 @@ public static int binarySearch(int[] a, int target) {
 
 **大 $O$ 表示法[^4]**
 
-![image-20221108103846566](.\imgs\image-20221108103846566.png)
+![image-20221108103846566](/imgs/image-20221108103846566.png)
 
 其中
 
@@ -295,7 +295,7 @@ public static int binarySearch(int[] a, int target) {
 
 **常见大 $O$ 表示法**
 
-![image-20221108114915524](.\imgs\image-20221108114915524.png)
+![image-20221108114915524](/imgs/image-20221108114915524.png)
 
  按时间复杂度从低到高
 
@@ -514,7 +514,7 @@ public static int binarySearchRightmost(int[] a, int target) {
 
 几个名词
 
-![image-20221125174155058](./imgs/image-20221125174155058.png)
+![image-20221125174155058](/imgs/image-20221125174155058.png)
 
 **范围查询**：
 
