@@ -1,6 +1,6 @@
 ---
 title: AVL 树
-published: 2025-05-24
+published: 2025-03-11
 description: AVL 树是一种自平衡二叉搜索树，由托尔·哈斯特罗姆在 1960 年提出并在 1962 年发表。
 tags: [Markdown, Blogging]
 category: Basic Algorithm

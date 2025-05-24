@@ -1,6 +1,6 @@
 ---
 title: 算法
-published: 2025-05-23
+published: 2025-03-10
 description: 在数学和计算机科学领域，算法是一系列有限的严谨指令，通常用于解决一类特定问题或执行计算
 tags: [Markdown, Blogging]
 category: Basic Algorithm

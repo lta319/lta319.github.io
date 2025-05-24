@@ -1,6 +1,6 @@
 ---
 title: 红黑树
-published: 2025-05-24
+published: 2025-03-15
 description: 红黑树是一种自平衡二叉查找树，最早由一位名叫Rudolf Bayer的德国计算机科学家于1972年发明。
 tags: [Markdown, Blogging]
 category: Basic Algorithm

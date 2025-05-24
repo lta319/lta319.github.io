@@ -1,6 +1,6 @@
 ---
 title: 贪心算法
-published: 2025-05-24
+published: 2025-03-19
 description: 贪心算法是一种在每一步选择中都采取在当前状态下最好或最优(即最有利)的选择，从而希望导致结果是最好或最优的算法
 tags: [Markdown, Blogging]
 category: Algorithm Design

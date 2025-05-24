@@ -1,6 +1,6 @@
 ---
 title: 二叉搜索树
-published: 2025-05-24
+published: 2025-03-13
 description: 在计算机科学的发展中，二叉搜索树成为了一种非常基础的数据结构，被广泛应用在各种领域
 tags: [Markdown, Blogging]
 category: Basic Algorithm

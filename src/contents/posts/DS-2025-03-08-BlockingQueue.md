@@ -1,6 +1,6 @@
 ---
 title: 阻塞队列
-published: 2025-05-23
+published: 2025-03-08
 description: 之前的队列在很多场景下都不能很好地工作
 tags: [Markdown, Blogging]
 category: Data Structure

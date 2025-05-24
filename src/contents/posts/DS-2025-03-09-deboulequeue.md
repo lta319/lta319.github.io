@@ -1,6 +1,6 @@
 ---
 title: 双端队列
-published: 2025-05-23
+published: 2025-03-09
 description: Java 中 LinkedList 即为典型双端队列实现，不过它同时实现了 Queue 接口，也提供了栈的 push pop 等方法
 tags: [Markdown, Blogging]
 category: Data Structure

@@ -1,6 +1,6 @@
 ---
 title: 二叉树
-published: 2025-05-23
+published: 2025-03-02
 description: 二叉树是这么一种树状结构：每个节点最多有两个孩子，左孩子和右孩子
 tags: [Markdown, Blogging]
 category: Data Structure
