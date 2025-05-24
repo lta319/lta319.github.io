@@ -13,12 +13,6 @@ draft: false
 
 ## 1. 线程状态
 
-**要求**
-
-* 掌握 Java 线程六种状态
-* 掌握 Java 线程状态转换
-* 能理解五种状态与六种状态两种说法的区别
-
 **六种状态及转换**
 
 ![image-20210831090722658](/imgs/image-20210831090722658.png)
@@ -46,7 +40,7 @@ draft: false
   * 如果等待超时，也会从**有时限等待**状态恢复为**可运行**状态，并重新去竞争锁
   * 还有一种情况是调用 sleep(long) 方法也会从**可运行**状态进入**有时限等待**状态，但与 Monitor 无关，不需要主动唤醒，超时时间到自然恢复为**可运行**状态
 
-> ***其它情况（只需了解）***
+> ***其它情况***
 >
 > * 可以用 interrupt() 方法打断**等待**、**有时限等待**的线程，让它们恢复为**可运行**状态
 > * park，unpark 等方法也可以让线程等待和唤醒
@@ -68,9 +62,6 @@ draft: false
 
 ## 2. 线程池
 
-**要求**
-
-* 掌握线程池的 7 大核心参数
 
 **七大参数**
 
@@ -96,9 +87,6 @@ draft: false
 
 ## 3. wait vs sleep
 
-**要求**
-
-* 能够说出二者区别
 
 **一个共同点，三个不同点**
 
@@ -126,11 +114,6 @@ draft: false
 
 ## 4. lock vs synchronized
 
-**要求**
-
-* 掌握 lock 与 synchronized 的区别
-* 理解 ReentrantLock 的公平、非公平锁
-* 理解 ReentrantLock 中的条件变量
 
 **三个层面**
 
@@ -169,10 +152,6 @@ draft: false
 
 ## 5. volatile
 
-**要求**
-
-* 掌握线程安全要考虑的三个问题
-* 掌握 volatile 能解决哪些问题
 
 **原子性**
 
@@ -206,9 +185,6 @@ draft: false
 
 ## 6. 悲观锁 vs 乐观锁
 
-**要求**
-
-* 掌握悲观锁和乐观锁的区别
 
 **对比悲观锁与乐观锁**
 
@@ -231,10 +207,6 @@ draft: false
 
 ## 7. Hashtable vs ConcurrentHashMap
 
-**要求**
-
-* 掌握 Hashtable 与 ConcurrentHashMap 的区别
-* 掌握 ConcurrentHashMap 在不同版本的实现区别
 
 > 更形象的演示，见资料中的 hash-demo.jar，运行需要 jdk14 以上环境，进入 jar 包目录，执行下面命令
 >
@@ -281,10 +253,6 @@ draft: false
 
 ## 8. ThreadLocal
 
-**要求**
-
-* 掌握 ThreadLocal 的作用与原理
-* 掌握 ThreadLocal 的内存释放时机
 
 **作用**
 

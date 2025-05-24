@@ -11,13 +11,6 @@ draft: false
 ---
 # Leetcode 双指针
 
-下面是的题目都会涉及双指针，除此外，还有
-
-* Leetcode3 最长不重复子串
-* 快排中
-* 二分中
-*  ...
-
 ### 移动零-Leetcode 283
 
 ```java
